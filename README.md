@@ -23,4 +23,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi1998goyal/DSA-practise/tree/master/0151-reverse-words-in-a-string) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
