@@ -35,3 +35,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0165-compare-version-numbers) |
+## String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0165-compare-version-numbers) |
+<!---LeetCode Topics End-->
