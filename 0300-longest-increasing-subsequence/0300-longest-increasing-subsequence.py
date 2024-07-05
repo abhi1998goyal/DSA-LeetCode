@@ -16,7 +16,7 @@ class Solution:
         else:
             result = max(1 + self.lis(curr_index, curr_index + 1, nums,dp),self.lis(last_index, curr_index + 1, nums,dp))
         
-        if last_index!=-1 or curr_index>=len(nums):
+        if last_index!=-1 and curr_index<=len(nums):
            dp[last_index][curr_index]=result
         return result
 
