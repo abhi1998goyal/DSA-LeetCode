@@ -9,14 +9,15 @@ class Solution:
         if curr_index >= len(nums):
             return 0      
         if last_index == -1:
-            return max(self.lis(curr_index, curr_index + 1, nums,dp) + 1, self.lis(-1, curr_index + 1, nums,dp))
+            result = max(self.lis(curr_index, curr_index + 1, nums,dp) + 1, self.lis(-1, curr_index + 1, nums,dp))
         
         elif nums[curr_index] <= nums[last_index]:
             result = self.lis(last_index, curr_index + 1, nums,dp)
         else:
             result = max(1 + self.lis(curr_index, curr_index + 1, nums,dp),self.lis(last_index, curr_index + 1, nums,dp))
         
-        dp[last_index][curr_index]=result
+        if last_index!=-1 or curr_index>=len(nums):
+           dp[last_index][curr_index]=result
         return result
 
     def lengthOfLIS(self, nums: List[int]) -> int:
