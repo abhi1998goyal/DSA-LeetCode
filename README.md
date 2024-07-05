@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0165-compare-version-numbers](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
