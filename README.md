@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0064-minimum-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhi1998goyal/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
